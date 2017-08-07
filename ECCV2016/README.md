@@ -12,10 +12,11 @@ Hendricks, L.A., Akata, Z., Rohrbach, M., Donahue, J., Schiele, B. and Darrell, 
   year={2016}
 }
 ```
+I am modifying code to implement it for another finegrained dataset.
 
 ## Getting Started
 
-1.  Please clone my git repo.  My code for generating visual explanations is in /examples/ECCV2016.  You will need to use my version of caffe.
+1.  Please clone the git repo.  My code for generating visual explanations is in /ECCV2016.  You will need to use my version of caffe.
 2.  Download data using the "download_data.sh" script.  This will also preprocess the CUB sentences.  All my ECCV 2016 models will be put in "gve_models"
 
 ## Building the models
